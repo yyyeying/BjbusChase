@@ -1,5 +1,5 @@
 # BjbusChase
 基于Selenium的北京实时公交竞速项目
-by yyyeying
+_by yyyeying_
 
 你一听肯定觉得用Selenium做这个简直是脱了裤子放屁，但我实在是没有别的办法了。
